@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "layouts": "Layouts"
+    },
+    "labels": {
+        "Create LayoutSet": "Create Layout Set"
+    },
+    "tooltips": {
+    }
+}
