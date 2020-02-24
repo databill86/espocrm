@@ -3,7 +3,7 @@
         "label": "",
         "rows": [
             [{"name": "name"}, false],
-            [{"name": "layouts"}, false]
+            [{"name": "layoutList"}, false]
         ]
     }
 ]

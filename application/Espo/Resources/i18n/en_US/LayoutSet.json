@@ -1,6 +1,6 @@
 {
     "fields": {
-        "layouts": "Layouts"
+        "layoutList": "Layouts"
     },
     "labels": {
         "Create LayoutSet": "Create Layout Set"

@@ -6,8 +6,9 @@
             "maxLength": 100,
             "trim": true
         },
-        "layouts": {
-            "type": "multiEnum"
+        "layoutList": {
+            "type": "multiEnum",
+            "view": "views/layout-set/fields/layout-list"
         },
         "createdAt": {
             "type": "datetime",
