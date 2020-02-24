@@ -1,0 +1,31 @@
+{
+    "fields": {
+        "name": {
+            "type": "varchar",
+            "maxLength": 100,
+            "trim": true
+        },
+        "layouts": {
+            "type": "multiEnum"
+        },
+        "createdAt": {
+            "type": "datetime",
+            "readOnly": true
+        },
+        "modifiedAt": {
+            "type": "datetime",
+            "readOnly": true
+        }
+    },
+    "links": {
+        "layoutRecords": {
+            "type": "hasMany",
+            "entity": "LayoutRecord",
+            "foreign": "layoutSet"
+        }
+    },
+    "collection": {
+        "orderBy": "name",
+        "order": "asc"
+    }
+}
