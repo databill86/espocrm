@@ -3,7 +3,8 @@
         "layoutList": "Layouts"
     },
     "labels": {
-        "Create LayoutSet": "Create Layout Set"
+        "Create LayoutSet": "Create Layout Set",
+        "Edit Layouts": "Edit Layouts"
     },
     "tooltips": {
     }

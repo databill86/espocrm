@@ -8,6 +8,7 @@
         },
         "layoutList": {
             "type": "multiEnum",
+            "displayAsList": true,
             "view": "views/layout-set/fields/layout-list"
         },
         "createdAt": {
